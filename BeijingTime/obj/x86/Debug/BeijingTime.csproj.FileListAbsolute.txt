@@ -1,0 +1,5 @@
+C:\Users\louislv\Desktop\File\New folder\obj\x86\Debug\BeijingTime.csproj.CoreCompileInputs.cache
+C:\Users\louislv\Desktop\File\New folder\bin\Debug\BeijingTime.exe
+C:\Users\louislv\Desktop\File\New folder\bin\Debug\BeijingTime.pdb
+C:\Users\louislv\Desktop\File\New folder\obj\x86\Debug\BeijingTime.exe
+C:\Users\louislv\Desktop\File\New folder\obj\x86\Debug\BeijingTime.pdb
